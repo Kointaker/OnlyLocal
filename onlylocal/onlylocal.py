@@ -1,6 +1,5 @@
 # OnlyLocal App
 
-import pandas
 
 def main():
     pass

@@ -1,2 +1,0 @@
-# OnlyLocal Database
-import pandas
